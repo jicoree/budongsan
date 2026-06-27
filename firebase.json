@@ -1,5 +1,1 @@
-{
-  "storage": {
-    "rules": "storage.rules"
-  }
-}
+{"storage":{"rules":"storage.rules"},"flutter":{"platforms":{"android":{"default":{"projectId":"wealth-76ea1","appId":"1:732098981254:android:cfd075dd30a747b13bd007","fileOutput":"android/app/google-services.json"}},"ios":{"default":{"projectId":"wealth-76ea1","appId":"1:732098981254:ios:b09f8c8dcacc837b3bd007","uploadDebugSymbols":true,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"wealth-76ea1","configurations":{"android":"1:732098981254:android:cfd075dd30a747b13bd007","ios":"1:732098981254:ios:b09f8c8dcacc837b3bd007"}}}}}}
